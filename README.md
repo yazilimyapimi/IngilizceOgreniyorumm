@@ -1,0 +1,2 @@
+# IngilizceOgreniyorumm
+Yazılım Yapımı Projesi
