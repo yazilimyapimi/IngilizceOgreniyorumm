@@ -1,7 +1,6 @@
 # IngilizceOgreniyorumm
 Yazılım Yapımı Projesi
-Proje belli başlı hatalarından dolayı düzeltilme imkanı vermemektedir.
-Projenşn gereksinimleri %73 karşılanmakta.
+
 # NasılÇalıştırılır
 - DataBase Kurulur
 - Proje dosyası indirilir
